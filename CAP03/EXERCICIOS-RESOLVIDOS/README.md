@@ -1,5 +1,5 @@
 | N°   | QUESTOES |
-| 01   | [CLIQUE AQUI]() |
-| 02   | [CLIQUE AQUI]() |
-| 03   | [CLIQUE AQUI]() |
-| 04   | [CLIQUE AQUI]() |
+| 01   | [CLIQUE AQUI](EXE01) |
+| 02   | [CLIQUE AQUI](EXE02) |
+| 03   | [CLIQUE AQUI](EXE03) |
+| 04   | [CLIQUE AQUI](EXE04) |
