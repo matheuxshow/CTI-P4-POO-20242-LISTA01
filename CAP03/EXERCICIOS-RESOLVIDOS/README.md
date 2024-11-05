@@ -1,27 +1,27 @@
-| Questões| Explicação                          |
-|-------|-----------------------------        |
-| 01    |  Soma de quatro numeros inteiros    |
-| 02    |  Média aritmética de tres notas     |
-| 03    |  Média ponderada de três notas       |
-| 04    |  Cálculo salarial(n) com 25% de aumento     |
-| 05    |  Calculo salarial com aumento de valor definido pelo usuario     |
-| 06    |  Calculo salarial com gratificacao de 5% e imposto de 7%       |
-| 07    |  Calculo salarial cvom gratificação de 5% e imposto de 50 R$     |
-| 08    |  Calculo do rendimento de um depósito       |
-| 09    |  Área de um triangulo      |
-| 10    |  Área do círculo   |
-| 11    |  Exponenciação e radiciação de um número |
-| 12    |  Exponenciação de um pelo outro, dados dois n pelo usuario      |
-| 13    |  Conversão de unidades de distância       |
-| 14    |  Calculo de idade baseado no ano atual   |
-| 15    |  Calculo de impostos, lucro e valor final de um veículo    |
-| 16    |       |
-| 17    |       |
-| 18    |        |
-| 19    |      |
-| 20    |        |
-| 21    | |
-| 22    |        |
-| 23    |      |
-| 24    |    |
-| 25    |       |
+| Questões| Explicação                          | link da questão
+|-------|-----------------------------        |  []()
+| 01    |  Soma de quatro numeros inteiros    |[EXE01](EXE01)
+| 02    |  Média aritmética de tres notas     |[EXE02](EXE02)
+| 03    |  Média ponderada de três notas       |[EXE03](EXE03)
+| 04    |  Cálculo salarial(n) com 25% de aumento     |[EXE04](EXE04)
+| 05    |  Calculo salarial com aumento de valor definido pelo usuario     |[EXE05](EXE05)
+| 06    |  Calculo salarial com gratificacao de 5% e imposto de 7%       |[EXE06](EXE06)
+| 07    |  Calculo salarial cvom gratificação de 5% e imposto de 50 R$     |[EXE07](EXE07)
+| 08    |  Calculo do rendimento de um depósito       |[EXE08](EXE08)
+| 09    |  Área de um triangulo      |[EXE09](EXE09)
+| 10    |  Área do círculo   |[EXE10](EXE10)
+| 11    |  Exponenciação e radiciação de um número |[EXE11](EXE11)
+| 12    |  Exponenciação de um pelo outro, dados dois n pelo usuario      |[EXE12](EXE12)
+| 13    |  Conversão de unidades de distância       |[EXE13](EXE13)
+| 14    |  Calculo de idade baseado no ano atual   |[EXE14](EXE14)
+| 15    |  Calculo de impostos, lucro e valor final de um veículo    |[EXE15](EXE15)
+| 16    |  Calculo de um salário baseado em horas trabalhadas, impostos cobrados( valores estes dados pelo usuário)     |[EXE16](EXE16)
+| 17    |  Calculo de um saldo pós retirados dois cheques cujos CPMF são de 0,38% cada     |[EXE17](EXE17)
+| 18    |  Calculço da sobra de ração dos gatos      |[EXE18](EXE18)
+| 19    |  Quantidade de degraus subidos    |[EXE19](EXE19)
+| 20    |  Tamanho da escada baseado em trigonometria básica      |[EXE20](EXE20)
+| 21    | Distancia da escada baseada na altura do local onde será prefado o quadro|[EXE21](EXE21)
+| 22    |  Calculo da quantidade de kw gastos por uma casa, percentual em relação ao salário mínimo menos 15% de desconto      |[EXE22](EXE22)
+| 23    |  Parte inteira, fracionária e arrendondada de um número    |[EXE23](EXE23)
+| 24    |  Calculo de um horário com hora e minuto para apenas minutos  |[EXE24](EXE24)
+| 25    |  Calculo da quantidade de convites necessária para alcançar o custo de um espetáculo     |[EXE25](EXE25)
