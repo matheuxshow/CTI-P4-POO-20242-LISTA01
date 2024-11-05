@@ -1,4 +1,4 @@
-| Quest.| Explicação                          |
+| Questões| Explicação                          |
 |-------|-----------------------------        |
 | 01    |  Soma de quatro numeros inteiros    |
 | 02    |  Média aritmética de tres notas     |
@@ -14,7 +14,7 @@
 | 12    |  Exponenciação de um pelo outro, dados dois n pelo usuario      |
 | 13    |  Conversão de unidades de distância       |
 | 14    |  Calculo de idade baseado no ano atual   |
-| 15    |      |
+| 15    |  Calculo de impostos, lucro e valor final de um veículo    |
 | 16    |       |
 | 17    |       |
 | 18    |        |
