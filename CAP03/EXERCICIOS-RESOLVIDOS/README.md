@@ -1,5 +1,5 @@
 | Questões| Explicação                          | link da questão |
-|-------|--------------------------------------|  
+|-------|--------------------------------------|  --------|
 | 01    |  Soma de quatro numeros inteiros    |[EXE01](EXE01)
 | 02    |  Média aritmética de tres notas     |[EXE02](EXE02)
 | 03    |  Média ponderada de três notas       |[EXE03](EXE03)
